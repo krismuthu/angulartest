@@ -15,8 +15,7 @@ node {
     stage('Initialize'){
 
         checkout scm
-
-        sh 'sudo dockerd'
+    
 
     }
 
