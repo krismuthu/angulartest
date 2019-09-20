@@ -16,6 +16,8 @@ node {
 
         checkout scm
 
+        sh dockerd 
+
     }
 
 
