@@ -16,7 +16,7 @@ node {
 
         checkout scm
 
-        sh 'dockerd'
+        sh 'sudo dockerd'
 
     }
 
