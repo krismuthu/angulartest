@@ -4,7 +4,7 @@ def CONTAINER_TAG="latest"
 
 def DOCKER_HUB_USER="krismuthu"
 
-def HTTP_PORT="8033"
+def HTTP_PORT="4200"
 
 
 
