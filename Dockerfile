@@ -24,7 +24,7 @@ COPY . /app/
 
 
 
-EXPOSE 8033
+EXPOSE 4200
 
 
 
